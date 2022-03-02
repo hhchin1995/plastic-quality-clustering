@@ -1,2 +1,2 @@
 # plastic-quality-clustering
-Plastic quality clustering and classification methods
+Plastic quality clustering and classification methods example
